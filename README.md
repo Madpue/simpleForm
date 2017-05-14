@@ -1,4 +1,4 @@
-simpleFomr
+simpleForm
 =========
 
 This is just an excercise from php zend course
